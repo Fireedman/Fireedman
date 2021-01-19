@@ -1,3 +1,3 @@
-## El repo original de la computadora
+## Hi there 👋,
 ---
-ahora si modifico esta parte que pasa
+### I´m L.Antonio Aguilar, and I´m a pationated researcher. I have a Ph.D. in Biomechanics.
