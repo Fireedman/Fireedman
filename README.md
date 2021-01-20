@@ -17,7 +17,7 @@
 ## 📬 Get in touch
 
 <a href="mailto:laguilarpe@gmail.com"><img alt="Gmail" title="Gmail" height="32" width="32" src="icons/gmail.svg"></a>
-<a href=""><img alt="Linkedin" title="Linkedin" height="32" width="32" src="icons/linkedin.svg"></a>
+<a href="https://www.linkedin.com/in/luis-antonio-a-4b560746/"><img alt="Linkedin" title="Linkedin" height="32" width="32" src="icons/linkedin.svg"></a>
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--7051--0001-A1F533??style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7051-0001)
 
