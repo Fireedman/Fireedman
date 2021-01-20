@@ -1,5 +1,6 @@
 ## Hello, I´m L.Antonio Aguilar 👋,
 ---
+<<<<<<< HEAD
 ### I´m an experimental researcher in Biomechanical engineering. Proudly from Mexico, I´ve been doing biomechanical research since 2010.  One of my life goals is to design robotic devices usefull for human being. Fascinated by everything that can be 3D printed, mechanism design or mathematical models, now I want to learn to code in more and more languages. If you find out interesting my profile, I invite you to connect with me here:
 
 <p align="center">
@@ -9,3 +10,6 @@
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]()
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--7051--0001-A1F533??style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7051-0001)
+=======
+### I´m L.Antonio Aguilar, and I´m a researcher. I have a Ph.D. in Biomechanics.
+>>>>>>> 1c0fc98aa8d8235ddc67490a72451976864d0381
