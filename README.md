@@ -1,15 +1,29 @@
 ## Hello, I´m L.Antonio Aguilar 👋,
 ---
-<<<<<<< HEAD
-### I´m an experimental researcher in Biomechanical engineering. Proudly from Mexico, I´ve been doing biomechanical research since 2010.  One of my life goals is to design robotic devices usefull for human being. Fascinated by everything that can be 3D printed, mechanism design or mathematical models, now I want to learn to code in more and more languages. If you find out interesting my profile, I invite you to connect with me here:
+### I´m an experimental researcher in Biomechanical engineering. Proudly from Mexico, I´ve been doing biomechanical research since 2010.  One of my life goals is to design robotic devices usefull for human being. Fascinated by everything that can be 3D printed, mechanism design or mathematical models, now I want to learn to code in more and more languages.
+---
+## About me
+- I´m currently learning **FEBio Software** and **Gibbon Software**
+- ⚙️ Mastering: Matlab, Latex and  
+<img alt="Python" title="Python" height="32" width="96" src="icons/MATLA.png"> <img alt="Python" title="Python" height="32" width="82" src="icons/LaTeX.svg"> <img alt="Python" title="Python" height="32" width="32" src="icons/python2.png">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/luis-antonio-a-4b560746/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src=https://unpkg.com/simple-icons@4.7.0/icons/gmail.svg></a>
-  
-</p>
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]()
+## Interests
+- Biomechanics
+- Compliant mechanisms
+- CFD and FEM simulations
+
+---
+## 📬 Get in touch
+
+<a href="mailto:laguilarpe@gmail.com"><img alt="Gmail" title="Gmail" height="32" width="32" src="icons/gmail.svg"></a>
+<a href=""><img alt="Linkedin" title="Linkedin" height="32" width="32" src="icons/linkedin.svg"></a>
+
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--7051--0001-A1F533??style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7051-0001)
-=======
-### I´m L.Antonio Aguilar, and I´m a researcher. I have a Ph.D. in Biomechanics.
->>>>>>> 1c0fc98aa8d8235ddc67490a72451976864d0381
+
+
+
+
+<p align="right">
+<a href="https://www.buymeacoffee.com/Fireedman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="32" width="160"></a>
+</p>
