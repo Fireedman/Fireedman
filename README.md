@@ -4,7 +4,7 @@
 ---
 ## About me
 - I´m currently learning **FEBio Software** and **Gibbon Software**
-- ⚙️ Mastering: Matlab, Latex and  
+- ⚙️ Mastering:  
 <img alt="Python" title="Python" height="32" width="96" src="icons/MATLA.png"> <img alt="Python" title="Python" height="32" width="82" src="icons/LaTeX.svg"> <img alt="Python" title="Python" height="32" width="32" src="icons/python2.png">
 
 
